@@ -10,6 +10,27 @@ This skill enables Claude.ai to apply **30 curated modern design styles** when g
 
 ---
 
+## Visual Gallery
+
+Explore a few of the **30 distinct styles** available in this collection.
+
+### ✨ Highlights
+<p align="center">
+  <img src="assets/images/style_glass.png" width="45%" alt="Glassmorphism">
+  <img src="assets/images/style_brutal.png" width="45%" alt="Neo-Brutalism">
+</p>
+<p align="center">
+  <img src="assets/images/style_cyber.png" width="45%" alt="Cyberpunk">
+  <img src="assets/images/style_riso.png" width="45%" alt="Risograph">
+</p>
+
+### 📱 Full Collection Preview
+<p align="center">
+  <img src="assets/images/full_preview.png" width="100%" alt="Full Collection Preview">
+</p>
+
+---
+
 ## 30 Design Styles
 
 | # | Style | Mood | Best For |
