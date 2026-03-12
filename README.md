@@ -60,10 +60,6 @@ Explore a few of the **30 distinct styles** available in this collection.
   <img src="assets/images/style_riso.png" width="45%" alt="Risograph">
 </p>
 
-### 📱 Full Collection Preview
-<p align="center">
-  <img src="assets/images/full_preview.png" width="100%" alt="Full Collection Preview">
-</p>
 
 ---
 
@@ -130,6 +126,13 @@ pptx-design-styles/
 | Eco / Wellness | Hand-crafted Organic, Nordic Minimalism, Dark Forest |
 | Luxury / Premium | Art Deco Luxe, Monochrome Minimal, Dark Academia |
 | Science / Biotech | Liquid Blob, SciFi Holographic, Aurora Neon |
+
+---
+
+### 📱 Full Collection Preview
+<p align="center">
+  <img src="assets/images/full_preview.png" width="100%" alt="Full Collection Preview">
+</p>
 
 ---
 

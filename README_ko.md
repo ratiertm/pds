@@ -60,10 +60,6 @@ Codex 에이전트 환경에서 디자인 가이드라인을 통합합니다.
   <img src="assets/images/style_riso.png" width="45%" alt="Risograph">
 </p>
 
-### 📱 전체 컬렉션 미리보기
-<p align="center">
-  <img src="assets/images/full_preview.png" width="100%" alt="Full Collection Preview">
-</p>
 
 ---
 
@@ -131,6 +127,13 @@ pptx-design-styles/
 | 에코 / 웰니스 | Hand-crafted Organic, Nordic Minimalism, Dark Forest |
 | 럭셔리 / 프리미엄 | Art Deco Luxe, Monochrome Minimal, Dark Academia |
 | 과학 / 바이오테크 | Liquid Blob, SciFi Holographic, Aurora Neon |
+
+---
+
+### 📱 전체 컬렉션 미리보기
+<p align="center">
+  <img src="assets/images/full_preview.png" width="100%" alt="Full Collection Preview">
+</p>
 
 ---
 
