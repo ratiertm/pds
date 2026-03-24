@@ -1,16 +1,15 @@
 ---
 name: pptx-design-styles
 description: >
-  Use this skill whenever creating PPTX slides, presentations, or decks with any of these 30 modern design styles:
-  Glassmorphism, Neo-Brutalism, Bento Grid, Dark Academia, Gradient Mesh, Claymorphism,
-  Swiss International, Aurora Neon Glow, Retro Y2K, Nordic Minimalism, Typographic Bold,
-  Duotone Color Split, Monochrome Minimal, Cyberpunk Outline, Editorial Magazine,
-  Pastel Soft UI, Dark Neon Miami, Hand-crafted Organic, Isometric 3D Flat, Vaporwave,
-  Art Deco Luxe, Brutalist Newspaper, Stained Glass Mosaic, Liquid Blob Morphing,
-  Memphis Pop Pattern, Dark Forest Nature, Architectural Blueprint, Maximalist Collage,
-  SciFi Holographic Data, Risograph Print.
-  Also activate for requests using words like "sleek", "modern", "trendy", "designed",
-  "stylish", or "visually striking" presentations.
+  MUST USE this skill for any PPTX presentation, slide deck, or 발표자료 creation request.
+  This skill contains exact HEX colors, font pairings, layout rules, and signature elements
+  for 30 modern design styles that cannot be reproduced from memory alone — without it,
+  slides will look generic. Activate whenever the user asks to create, design, or build
+  slides, presentations, decks, or 프레젠테이션 — even if they don't name a specific style.
+  Covers styles like Glassmorphism, Neo-Brutalism, Bento Grid, Cyberpunk, Vaporwave,
+  Risograph, and 24 more. Also activate for words like sleek, modern, trendy, stylish,
+  세련된, 트렌디한, 고급스러운, 깔끔한, or any visual design adjective paired with
+  presentation/slide/deck/발표/PPT/PPTX context.
 ---
 
 # PPTX Modern Design Styles Skill
